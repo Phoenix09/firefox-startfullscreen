@@ -1,7 +1,7 @@
 {
   "title": "Start Fullscreen",
   "name": "startfullscreen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically makes new browser windows fullscreen",
   "main": "index.js",
   "author": "Phoenix09",
