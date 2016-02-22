@@ -12,5 +12,17 @@
   "license": "MPL-2.0",
   "keywords": [
     "jetpack"
-  ]
+  ],
+    "preferences": [{
+        "name": "startup",
+        "title": "Fullscreen at Startup",
+        "type": "bool",
+        "value": true
+    },
+    {
+        "name": "new",
+        "title": "New Windows Fullscreen",
+        "type": "bool",
+        "value": true
+    }]
 }
