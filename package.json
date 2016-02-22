@@ -4,7 +4,8 @@
   "version": "1.0.1",
   "description": "Automatically makes new browser windows fullscreen",
   "main": "index.js",
-  "author": "Phoenix09 (https://github.com/Phoenix09/firefox-startfullscreen)",
+  "author": "Phoenix09",
+  "homepage": "https://github.com/Phoenix09/firefox-startfullscreen",
   "engines": {
     "firefox": ">=38.0a1"
   },
